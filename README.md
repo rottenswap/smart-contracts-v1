@@ -4,7 +4,7 @@ RottenToken (ROT): https://etherscan.io/address/0xd04785c4d8195e4a54d9dec3a90438
 MaggotToken (MAGGOT): https://etherscan.io/address/0x163c754ef4d9c03fc7fa9cf6dd43bfc760e6ce89#code
 ZombieChef: https://etherscan.io/address/0x577af3dce5aaa89510135d7f6e095e33c06b8b1f#contracts
 
-There is only around 10 lines of codes that have been modified from SUSHI. If SUSHI didn't get hacked, we shouldn't either. That said the contracts are not officially audited so use at your own risk.
+There are only around 10 lines of codes that have been modified from SUSHI. If SUSHI didn't get hacked, we shouldn't either. That said the contracts are not officially audited so use at your own risk.
 
 How to use:
 
